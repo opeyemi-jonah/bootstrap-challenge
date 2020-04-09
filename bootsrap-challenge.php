@@ -13,31 +13,52 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-	<a class="navbar-brand" href="#">Navbar</a>
+	<a class="navbar-brand" href="#">GO GO!</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarNav">
 		<ul class="nav navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="#">Home <span class="sr-only"></span></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Features</a>
+				<a class="nav-link" href="#">Gadgets</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#">Pricing</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link disabled" href="#">Disabled</a>
+				<a class="nav-link" href="#">About</a>
 			</li>
 		</ul>
 	</div>
 </nav>
-
+<br>
+<br>
 <div class = 'container'>
 
 	<div class = 'jumbotron'>
+		<h1>Hello, capt</h1>
+		<p>I’m not here to frack spiders, au, you don’t know his story, bro.
+			Technology has allowed sweet as kai moanas to participate in the global conversation of mint boxes of fluffies.
+			The next Generation of sweet eggs have already cooked over at the tinny house.
+			What’s the hurry Bazza? There’s plenty of cookie times in the wop wops.
+			Mt Cook holds the most rip-off community in the country..
+			Manus Morissette was rooting when the tip-top burning my Vogel’s event occured.
+			Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.</p>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+	</div>
+
+	<div class="media">
+		<img src="" alt="some-photo of captain gadget">
+		<div class="media-body">
+			<h5 class="mt-0">Media heading</h5>
+			Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+		</div>
+	</div>
+
+
 
 <footer>
 
