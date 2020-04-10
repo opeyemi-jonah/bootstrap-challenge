@@ -1,0 +1,29 @@
+nav{
+	border: thin solid #eee;
+	border-radius: 10px;
+}
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+
+}
+
+.centered{
+	text-align: center;
+}
+
+.round{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+.text-box{
+	border: thin #ddd solid;
+	background-color: #eee;
+	padding-top: 20px;
+	border-radius: 10px;
+	text-align: center;
+}
