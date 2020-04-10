@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>bootsrap!</title>
+	<link rel="stylesheet" href="style/style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
@@ -55,7 +56,7 @@
 <div class="container-fluid mt-5" style="background-color: #ddd">
 	<div class="container">
 		<div class="row pt-5 pb-5">
-			<div class="col-md-3"><img src="" alt="some-photo of captain gadget"></div>
+			<div class="col-md-3"><img src="image/gogo.jpg" alt="some-photo of captain gadget"></div>
 			<div class="col-md-9">	<h5 class="mt-0">Media heading</h5>
 				Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
 		</div>
