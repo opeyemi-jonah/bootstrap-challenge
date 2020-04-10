@@ -56,7 +56,7 @@
 <div class="container-fluid mt-5" style="background-color: #ddd">
 	<div class="container">
 		<div class="row pt-5 pb-5">
-			<div class="col-md-3"><img src="image/gogo.jpg" alt="some-photo of captain gadget"></div>
+			<div class="col-md-3"><img src="image/gogo.jpg" alt="some-photo of captain gadget" width="200" height="200"></div>
 			<div class="col-md-9">	<h5 class="mt-0">Media heading</h5>
 				Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
 		</div>
