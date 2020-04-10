@@ -23,13 +23,13 @@
 				<li class="nav-item active">
 					<a class="nav-link" href="#">Home <span class="sr-only"></span></a>
 				</li>
-				<li class="nav-item">
+				<li class="nav-item active">
 					<a class="nav-link" href="#">Gadgets</a>
 				</li>
-				<li class="nav-item">
+				<li class="nav-item active">
 					<a class="nav-link" href="#">Pricing</a>
 				</li>
-				<li class="nav-item">
+				<li class="nav-item active">
 					<a class="nav-link" href="#">About</a>
 				</li>
 			</ul>
