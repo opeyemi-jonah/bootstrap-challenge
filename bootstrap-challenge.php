@@ -59,9 +59,17 @@
 			<div class="col-md-3 centered" >
 				<img src="image/gogo.jpg" alt="some-photo of captain gadget" width="200" height="200">
 			</div>
-			<div class="col-md-9">	<h5 class="mt-0">Media heading</h5>
-				Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
-		</div>
+			<div class="col-md-9">
+				<p>Cras sit amet nibh libero, What’s the hurry Bazza? There’s plenty of cookie times in the wop wops.
+					Mt Cook holds the most rip-off community in the country..
+					Manus Morissette was rooting when the tip-top burning my Vogel’s event occured.
+					Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+			<p>Cras sit amet nibh libero, What’s the hurry Bazza? There’s plenty of cookie times in the wop wops.
+				Mt Cook holds the most rip-off community in the country..
+				Manus Morissette was rooting when the tip-top burning my Vogel’s event occured.
+				Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
+
+	</div>
 	</div>
 </div>
 <div class="container pt-5 pb-5">
