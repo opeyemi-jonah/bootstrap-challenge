@@ -36,7 +36,8 @@
 	</nav>
 </div>
 
-<div class = 'container space'>
+
+<div class = 'container mt-5'>
 	<div class = 'jumbotron'>
 		<h1>Hello, capt</h1>
 		<p>I’m not here to frack spiders, au, you don’t know his story, bro.
@@ -49,6 +50,9 @@
 		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 	</div>
 </div>
+</div>
+
+
 <div class="container-fluid mt-5" style="background-color: #ddd">
 	<div class="container">
 		<div class="row pt-5 pb-5">
