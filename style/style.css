@@ -24,7 +24,12 @@ footer{
 	
 	border: thin #ddd solid;
 	background-color: #eee;
-	padding-top: 20px;
+	padding: 20px;
 	border-radius: 10px;
 	text-align: center;
+
+}
+
+.space{
+	margin-top: 50px;
 }
