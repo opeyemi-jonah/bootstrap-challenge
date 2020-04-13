@@ -11,7 +11,7 @@
 </head>
 
 <body>
-<div class="container mt-3">
+<div class="container my-md-3">
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<a class="navbar-brand" href="#">GO GO!</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,6 +56,7 @@
 <div class="container-fluid mt-5" style="background-color: #ddd">
 	<div class="container">
 		<div class="row pt-5 pb-5">
+
 			<div class="col-md-3 centered" >
 				<img src="image/gogo.jpg" alt="some-photo of captain gadget" width="200" height="200">
 			</div>
@@ -64,33 +65,53 @@
 		</div>
 	</div>
 </div>
+
+<section>
+
 <div class="container pt-5 pb-5">
 	<div class="row">
+
 		<div class="col-md-3 p-5 centered">
 			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-			<div class="mt-5 p-3 text-box">
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, rerum quo aut distinctio recusandae quaerat! Nesciunt </p>
-			</div>
+			<div class="mt-5 p-3 card bg-light">
+				<div class="card-body">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
+				</div>
 		</div>
+		</div>
+
+
 		<div class="col-md-3 p-5 centered" >
 			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-			<div class="mt-5 p-3 text-box">
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, rerum quo aut distinctio recusandae quaerat! Nesciunt distinctio t</p>
+			<div class="mt-5 p-3 card bg-light" >
+					<div class="card-body">
+						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
+				</div>
 			</div>
 		</div>
+
 		<div class="col-md-3 p-5 centered">
 			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-			<div class="mt-5 p-3 text-box">
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, rerum quo aut distinctio recusandae quaerat! Nesciunt distinctio </p>
-			</div>
+			<div class="mt-5 p-3 card bg-light ">
+				<div class="card-body">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
+				</div>
 		</div>
-		<div class="col-md-3 p-5 centered">
-			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget"> <div class="mt-5 p-3 text-box">
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, rerum quo aut distinctio recusandae quaerat! Nesciunt distinctio </p>
-			</div>
 		</div>
-	</div>
+
+			<div class="col-md-3 p-5 centered" >
+				<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+				<div class="mt-5 p-3 card  bg-light" >
+					<div class="card-body">
+						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
+					</div>
+				</div>
+			</div>
+
 </div>
+</section>
+
+
 <footer class="container-fluid p-3">
 	<p>lorem something</p>
 </footer>
