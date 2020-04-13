@@ -36,9 +36,9 @@
 		</div>
 	</nav>
 </div>
-<br>
-<br>
-<div class = 'container'>
+
+	
+<div class = 'container space'>
 
 	<div class = 'jumbotron'>
 		<h1>Hello, capt</h1>
