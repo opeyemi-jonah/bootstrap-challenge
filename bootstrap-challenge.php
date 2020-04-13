@@ -1,35 +1,36 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<!-- Required meta tags -->
+
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>bootsrap!</title>
-	<link rel="stylesheet" href="style/style.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
-<div class="container my-md-3">
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand" href="#">GO GO!</a>
+
+<div class="container">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light border border-secondary rounded my-md-3">
+		<a class="navbar-brand text-secondary" href="#">GO GO!</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<ul class="nav navbar-nav ml-auto">
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Home <span class="sr-only"></span></a>
+					<a class="nav-link text-secondary" href="#">Home <span class="sr-only"></span></a>
 				</li>
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Gadgets</a>
+					<a class="nav-link text-secondary" href="#">Gadgets</a>
 				</li>
 				<li class="nav-item active">
-					<a class="nav-link" href="#">Pricing</a>
+					<a class="nav-link text-secondary" href="#">Pricing</a>
 				</li>
 				<li class="nav-item active">
-					<a class="nav-link" href="#">About</a>
+					<a class="nav-link text-secondary" href="#">About</a>
 				</li>
 			</ul>
 		</div>
@@ -79,8 +80,8 @@
 <div class="container pt-5 pb-5">
 	<div class="row">
 
-		<div class="col-md-3 p-5 centered">
-			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+		<div class="col-md-3 p-5 col-sm-6 text-center">
+			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 			<div class="mt-5 p-3 card bg-light">
 				<div class="card-body">
 					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
@@ -89,8 +90,8 @@
 		</div>
 
 
-		<div class="col-md-3 p-5 centered" >
-			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+		<div class="col-md-3 p-5 col-sm-6 text-center" >
+			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 			<div class="mt-5 p-3 card bg-light" >
 					<div class="card-body">
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
@@ -98,8 +99,9 @@
 			</div>
 		</div>
 
-		<div class="col-md-3 p-5 centered">
-			<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+		<div class="col-md-3 col-sm-6 p-5 text-center">
+			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+
 			<div class="mt-5 p-3 card bg-light ">
 				<div class="card-body">
 					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
@@ -107,8 +109,8 @@
 		</div>
 		</div>
 
-			<div class="col-md-3 p-5 centered" >
-				<img class="round" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
+			<div class="col-md-3 p-5 col-sm-6 text-center" >
+				<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 				<div class="mt-5 p-3 card  bg-light" >
 					<div class="card-body">
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
@@ -120,8 +122,11 @@
 </section>
 
 
-<footer class="container-fluid p-3">
+<footer class="container-fluid p-3 bg-dark text-white text-center">
+
 	<p>lorem something</p>
+
 </footer>
+
 </body>
 </html>
