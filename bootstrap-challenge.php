@@ -80,7 +80,8 @@
 <div class="container pt-5 pb-5">
 	<div class="row">
 
-		<div class="col-md-3 p-5 col-sm-6 text-center">
+		<div class="col-md-3 col-sm-6 p-5 text-center" style="flex: 1">
+			
 			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 			<div class="mt-5 p-3 card bg-light">
 				<div class="card-body">
@@ -90,7 +91,7 @@
 		</div>
 
 
-		<div class="col-md-3 p-5 col-sm-6 text-center" >
+		<div class="col-md-3  col-sm-6 p-5 text-center" >
 			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 			<div class="mt-5 p-3 card bg-light" >
 					<div class="card-body">
