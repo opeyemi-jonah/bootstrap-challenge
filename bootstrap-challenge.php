@@ -7,6 +7,9 @@
 	<title>bootsrap!</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 </head>
 
@@ -35,7 +38,7 @@
 			</ul>
 		</div>
 	</nav>
-</div>
+
 
 
 <div class = 'container mt-5'>
@@ -54,70 +57,83 @@
 </div>
 
 
-<div class="container-fluid mt-5" style="background-color: #ddd">
-	<div class="container">
-		<div class="row pt-5 pb-5">
-
-			<div class="col-md-3 centered" >
-				<img src="image/gogo.jpg" alt="some-photo of captain gadget" width="200" height="200">
+<div class="container-fluid my-5">
+	<div class="row bg-light text-dark">
+		<div class="container px-0">
+			<div class="col-md-3">
+				<img class="float-left img-fluid py-5" src="./image/gogo.jpg" alt="Chara">
 			</div>
-			<div class="col-md-9">
-				<p>Cras sit amet nibh libero, What’s the hurry Bazza? There’s plenty of cookie times in the wop wops.
+			<div class="col-md-9 float-right py-5"
+				<p class="card-text">Cras sit amet nibh libero, What’s the hurry Bazza?
+					There’s plenty of cookie times in the wop wops.
 					Mt Cook holds the most rip-off community in the country..
 					Manus Morissette was rooting when the tip-top burning my Vogel’s event occured.
-					Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+					Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla.
+					Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+					Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
 			<p>Cras sit amet nibh libero, What’s the hurry Bazza? There’s plenty of cookie times in the wop wops.
 				Mt Cook holds the most rip-off community in the country..
 				Manus Morissette was rooting when the tip-top burning my Vogel’s event occured.
-				Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
+				Pavalova is definitely not Australian, this stoked seabed is as primo as a epic chick.in gravida nulla.
+					Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+					Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+			</p>
 
 	</div>
-	</div>
+
 </div>
 
 <section>
 
 <div class="container pt-5 pb-5">
 	<div class="row">
-
-		<div class="col-md-3 col-sm-6 p-5 text-center" style="flex: 1">
-			
-			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-			<div class="mt-5 p-3 card bg-light">
-				<div class="card-body">
-					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
-				</div>
-		</div>
-		</div>
-
-
-		<div class="col-md-3  col-sm-6 p-5 text-center" >
-			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-			<div class="mt-5 p-3 card bg-light" >
-					<div class="card-body">
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
+		<div class="col-md-3">
+			<img class="img-fluid rounded-circle my-2" src="./image/gogo.jpg" alt="fill murray photo" height="150">
+			<div class="card my-2">
+				<div class="card-body bg-light">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut.</p>
 				</div>
 			</div>
 		</div>
 
-		<div class="col-md-3 col-sm-6 p-5 text-center">
-			<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
 
-			<div class="mt-5 p-3 card bg-light ">
-				<div class="card-body">
-					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
-				</div>
-		</div>
-		</div>
 
-			<div class="col-md-3 p-5 col-sm-6 text-center" >
-				<img class="rounded-circle" src="https://via.placeholder.com/200" alt="some-photo of captain gadget">
-				<div class="mt-5 p-3 card  bg-light" >
-					<div class="card-body">
-						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut .</p>
-					</div>
+
+		<div class="col-md-3">
+			<img class="img-fluid rounded-circle my-2" src="./image/gogo.jpg" alt="fill murray photo" height="150">
+			<div class="card my-2">
+				<div class="card-body bg-light">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut.</p>
 				</div>
 			</div>
+		</div>
+
+
+		<div class="col-md-3">
+			<img class="img-fluid rounded-circle my-2" src="./image/gogo.jpg" alt="fill murray photo" height="150">
+			<div class="card my-2">
+				<div class="card-body bg-light">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-md-3">
+			<img class="img-fluid rounded-circle my-2" src="./image/gogo.jpg" alt="fill murray photo" height="150">
+			<div class="card my-2">
+				<div class="card-body bg-light">
+					<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quaerat sequi. Aut.</p>
+				</div>
+			</div>
+		</div>
 
 </div>
 </section>
